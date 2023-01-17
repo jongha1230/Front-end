@@ -1,2 +1,2 @@
 # Front-end
-Front-end Development Self-study Course
+프론트엔드 개발 공부 
